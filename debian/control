@@ -1,0 +1,17 @@
+Source: python-django-axes
+Section: python
+Priority: optional
+Maintainer: Stefan Jenkner <stefan@jenkner.org>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 5.0.37.2), python-dev, cdbs (>= 0.4.42)
+Build-Depends-Indep: python-support (>= 0.3), python-docutils
+Homepage: http://code.google.com/p/django-axes/
+
+Package: python-django-axes
+Architecture: all
+Depends: ${python:Depends}, python-django (>= 1.0~beta1)
+Priority: optional
+Description: Keep track of failed login attempts in Django-powered sites
+ django-axes is a very simple way for you to keep track of
+ failed login attempts, both for the Django admin and for the
+ rest of your site.
