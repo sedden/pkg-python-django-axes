@@ -1,5 +1,5 @@
-python-django-axes (0.1.1-rc1-0jaunty1) jaunty; urgency=low
+python-django-axes (0.1.1-rc1-0lenny1) lenny; urgency=low
 
   * Initial release.
 
- -- Stefan Jenkner <stefan@jenkner.org>  Tue, 12 May 2009 09:46:28 +0200
+ -- Stefan Jenkner <stefan@jenkner.org>  Tue, 12 May 2009 10:12:10 +0200
